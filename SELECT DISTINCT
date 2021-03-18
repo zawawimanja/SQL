@@ -1,0 +1,7 @@
+
+for duplicate values. 
+ to list the different (distinct) values.
+ 
+ 
+ SELECT DISTINCT column1, column2, ...
+FROM table_name;
