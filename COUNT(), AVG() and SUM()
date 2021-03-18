@@ -1,0 +1,6 @@
+
+
+
+SELECT COUNT(column_name)    //same avg & sum
+FROM table_name
+WHERE condition;
