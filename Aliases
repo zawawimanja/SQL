@@ -1,0 +1,14 @@
+
+
+ names more readable.
+ 
+ 
+ //column
+ SELECT column_name AS alias_name
+FROM table_name;
+
+
+
+//table
+SELECT column_name(s)
+FROM table_name AS alias_name;
